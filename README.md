@@ -26,3 +26,10 @@ For each electronic component in a vehicle, engineers measure three specific var
 1. Severity (the type of injuries to the driver and passengers)
 2. Exposure (how often the vehicle is exposed to the hazard)
 3. Controllability (how much the driver can do to prevent the injury)
+
+# MISRA 
+Motor Industry Reliability Association is a set of guidelines for safe and reliable use of C programming language in automotive embedded systems.\
+Focus on providing guidelines for safe and reliable coding practices in the automotive industry,\
+whereas ISO 26262 provides a comprehensive approach for the functional safety of the whole system.
+
+
