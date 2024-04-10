@@ -20,3 +20,9 @@ ASIL refers to Automotive Safety Integrity Level.\
 It is a risk classification system defined by the ISO 26262 standard.\
 4 ASILs identified by the standard: ASIL A, ASIL B, ASIL C, ASIL D. ASIL D dictates the highest integrity requirements on the product and ASIL A the lowest.\
 Hazards that are identified as QM (Quality Mangment) do not dictate any safety requirements.\
+ASILs are established by performing hazard analysis and risk assessment.\
+``` ASIL = Severity × ( Exposure × Controllability ) ```\
+For each electronic component in a vehicle, engineers measure three specific variables.
+1. Severity (the type of injuries to the driver and passengers)
+2. Exposure (how often the vehicle is exposed to the hazard)
+3. Controllability (how much the driver can do to prevent the injury)
